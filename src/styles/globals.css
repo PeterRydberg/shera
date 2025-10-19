@@ -10,8 +10,9 @@
     /* CSS: .bg-gradient { background: var(--gradient) } */
 
     --gradient: #1d2b64;
-    --background: 242 97.75% 98.5%;
+    --background: 60 17% 91%;
     --foreground: 242 5.5% 1%;
+    /*62 55% 25%*/
 
     --muted: 242 5.5% 92.5%;
     --muted-foreground: 242 2.75% 42.5%;
